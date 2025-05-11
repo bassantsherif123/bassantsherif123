@@ -72,6 +72,7 @@ You Can find various projects related to programming and AI on this account and 
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-orange?style=for-the-badge&logo=codewars&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-000000?style=for-the-badge)
 ![Webots](https://img.shields.io/badge/Webots-00AA88?style=for-the-badge)
